@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1,RTK1
+http://176.31.74.161:8081/live/rtk1/playlist.m3u8
+#EXTINF:-1,RTK3
+http://176.31.74.161:8081/live/rtk3/playlist.m3u8
+#EXTINF:-1,RTK4
